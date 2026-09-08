@@ -5,11 +5,11 @@ go 1.27.1
 require (
 	github.com/IBM/sarama v1.60.2
 	github.com/bborbe/errors v1.6.1
-	github.com/bborbe/kafka v1.25.15
-	github.com/bborbe/log v1.6.25
-	github.com/bborbe/metrics v0.6.2
-	github.com/bborbe/run v1.10.2
-	github.com/bborbe/sentry v1.10.1
+	github.com/bborbe/kafka v1.25.16
+	github.com/bborbe/log v1.7.1
+	github.com/bborbe/metrics v0.6.3
+	github.com/bborbe/run v1.10.3
+	github.com/bborbe/sentry v1.10.2
 	github.com/bborbe/service v1.10.13
 	github.com/bborbe/time v1.27.14
 	github.com/golang/glog v1.2.5
@@ -20,13 +20,13 @@ require (
 
 require (
 	github.com/Masterminds/semver/v3 v3.5.0 // indirect
-	github.com/bborbe/argument/v2 v2.13.2 // indirect
-	github.com/bborbe/collection v1.20.26 // indirect
+	github.com/bborbe/argument/v2 v2.13.3 // indirect
+	github.com/bborbe/collection v1.20.27 // indirect
 	github.com/bborbe/http v1.26.26 // indirect
-	github.com/bborbe/kv v1.21.13 // indirect
-	github.com/bborbe/math v1.4.8 // indirect
-	github.com/bborbe/parse v1.11.3 // indirect
-	github.com/bborbe/validation v1.5.0 // indirect
+	github.com/bborbe/kv v1.21.16 // indirect
+	github.com/bborbe/math v1.4.9 // indirect
+	github.com/bborbe/parse v1.11.4 // indirect
+	github.com/bborbe/validation v1.5.2 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/cespare/xxhash/v2 v2.3.0 // indirect
 	github.com/davecgh/go-spew v1.1.2-0.20180830191138-d8f796af33cc // indirect
