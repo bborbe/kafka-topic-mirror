@@ -8,6 +8,10 @@ Please choose versions by [Semantic Versioning](http://semver.org/).
 * MINOR version when you add functionality in a backwards compatible manner, and
 * PATCH version when you make backwards compatible bug fixes.
 
+## Unreleased
+
+- chore: update Go to 1.27.2 and github.com/bborbe/errors to v1.6.2, github.com/bborbe/log to v1.7.3, github.com/bborbe/metrics to v0.6.4, github.com/bborbe/sentry to v1.10.3, github.com/bborbe/time to v1.27.15, github.com/onsi/ginkgo/v2 to v2.33.1
+
 ## v0.1.8
 
 - chore: update github.com/IBM/sarama to v1.61.1, github.com/bborbe/kafka to v1.26.0, github.com/bborbe/log to v1.7.1, github.com/bborbe/metrics to v0.6.3, github.com/bborbe/run to v1.11.0, github.com/bborbe/sentry to v1.10.2, github.com/bborbe/service to v1.10.14, github.com/onsi/ginkgo/v2 to v2.33.0, github.com/onsi/gomega to v1.44.0
